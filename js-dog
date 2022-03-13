@@ -2,6 +2,7 @@ let dog ={
     name: 'Fideo',
     breed: 'Golden Retriever'
 }
-console.log dog
+console.log (dog)
 
 // end
+
